@@ -18,6 +18,7 @@ Este proyecto es una aplicación de autenticación construida con PHP y MySQL.
 - PHP >= 7.4
 - MySQL
 - XAMPP
+- Bootstrap v5.3
 - Papercut (https://github.com/ChangemakerStudios/Papercut-SMTP/releases)
 
 ## Instalación
